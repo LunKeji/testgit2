@@ -1,2 +1,2 @@
 # testgit2
-form service clone
+Form the server cloning
